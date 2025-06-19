@@ -13,7 +13,7 @@ const Navbar = () => {
     <div className="fixed top-0 text-black px-4 py-2 backdrop-filter backdrop-blur-lg bg-opacity-10 border-gray-900 w-full h-[10vh] flex justify-between items-center lg:px-10 lg:py-10 shadow-lg z-50">
       <div className="flex items-center gap-2 font-bold text-lg">
         <Building />
-        JustHome
+        Houses For Purchase
       </div>
 
       <div className="hidden md:flex md:gap-4 md:font-medium">
@@ -42,7 +42,7 @@ const Navbar = () => {
                 {" "}
                 <Link to="/" className="flex items-center gap-2 font-bold text-lg">
                   <Building />
-                  JustHome
+                  Houses For Purchase
                 </Link>
               </SheetTitle>
               <div className="text-left font-medium text-lg mb-20">

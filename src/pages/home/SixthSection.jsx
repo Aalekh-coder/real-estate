@@ -76,11 +76,11 @@ const SixthSection = () => {
           <div className="flex items-center gap-3 mt-10 md:mt-0">
             <img src="/sixth/girlDb.png" />
             <div>
-              <p className="font-bold text-lg">Cameron Williamson</p>
+              <p className="font-bold text-lg">Neha</p>
               <p className="font-medium">Designer</p>
             </div>
           </div>
-          <p className="px-3 mt-4">Softmore IT transformed our online presence! Their digital marketing expertise delivered incredible results, boosting our visibility and leads significantly. Highly recommend their professional team!</p>
+          <p className="px-3 mt-4">As a first-time homebuyer, I was overwhelmed by the sheer complexity of the real estate market. But then I discovered The Power of Purchase, and it truly lived up to its name. Their comprehensive resources and expert advice empowered me to understand everything from market trends to negotiation tactics. I felt confident and in control throughout the entire process, and ultimately, I secured my dream home at a price I was genuinely thrilled with. If you're looking to make smart, impactful real estate decisions, this is absolutely the platform you need. They give you the real power of purchase</p>
         </div>
       </div>
 

@@ -5,7 +5,7 @@ const FifthSection = () => {
     <div className="flex items-center justify-between flex-col md:flex-row text-[#1A1A1A] md:px-10">
       <div className="relative px-5 py-5 md:w-1/2 mt-10">
         <img src="https://i.pinimg.com/736x/0a/7c/e1/0a7ce1a9190cf8bddf40e919edbf6d0d.jpg" className="h-[50vh] rounded-xl lg:h-[60vh] " />
-        <img src="https://i.pinimg.com/736x/31/e4/2f/31e42f5ccc99c6208e7f8743728cacbb.jpg" className="h-[50vh] rounded-xl absolute left-28 top-24 border-white lg:h-[60vh] lg:left-[40vh]"/>
+        <img src="https://i.pinimg.com/736x/31/e4/2f/31e42f5ccc99c6208e7f8743728cacbb.jpg" className="h-[50vh] rounded-xl absolute left-28 top-24 border-white border-4 lg:h-[60vh] lg:left-[40vh]"/>
         <img src="https://i.pinimg.com/736x/80/5e/12/805e124f03dc807e974627e4814bff43.jpg" className="rounded-xl mt-10 lg:w-[35vw]"/>
       </div>
       <div className="px-5 lg:mt-10 md:w-1/2">
