@@ -13,7 +13,7 @@ const Listing = () => {
       square: "1800sq",
     },
     {
-      img: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/637393055.jpg?k=847ed55aca2901ee0aeb05962480de8e95ac0f4b3573950aa4f14b8321c7b281&o=&hp=1",
+      img: "./build/powerofpurchase-janakpuri.jpg",
       propertyTitle: "Spacious Family Villa",
       locationNo: "ITPL Road, Bengaluru",
       price: "₹4.75 Cr", // ₹4.75 Crores
