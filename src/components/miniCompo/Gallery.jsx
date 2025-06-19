@@ -9,7 +9,7 @@ const ResponsiveImageGallery = () => {
             className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
           >
             <img
-              src="/Gallery/empty-floor-front-modern-building.jpg"
+              src="./Gallery/house-family.jpg"
               loading="lazy"
               alt="Photo by Minh Pham"
               className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
@@ -25,7 +25,7 @@ const ResponsiveImageGallery = () => {
             className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
           >
             <img
-              src="/Gallery/observation-urban-building-business-steel.jpg "
+              src="https://i.pinimg.com/736x/37/71/f6/3771f642ee2322aa6f3af2519f943f1f.jpg"
               loading="lazy"
               alt="Photo by Magicle"
               className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
@@ -41,7 +41,7 @@ const ResponsiveImageGallery = () => {
             className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80"
           >
             <img
-              src="/Gallery/pexels-expect-best-79873-323780.jpg"
+              src="https://i.pinimg.com/736x/a7/2b/11/a72b11e58f983967f634e02e203999f5.jpg"
               loading="lazy"
               alt="Photo by Martin Sanchez"
               className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"
@@ -57,7 +57,7 @@ const ResponsiveImageGallery = () => {
             className="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80"
           >
             <img
-              src="/Gallery/pexels-pixabay-302769.jpg"
+              src="https://i.pinimg.com/736x/03/9f/54/039f545b2c32628f090b5e29295e490f.jpg"
               loading="lazy"
               alt="Photo by Lorenzo Herrera"
               className="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110"

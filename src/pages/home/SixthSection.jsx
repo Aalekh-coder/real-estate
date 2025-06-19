@@ -6,7 +6,7 @@ const SixthSection = () => {
       <div className="w-full bg-[#1F4B43] px-5 py-5 my-10 lg:my-24 ">
         <div className="md:flex md:gap-5 md:items-center lg:px-24">
           <div className="md:w-1/2">
-            <img src="/sixth/h11.png.png" className="lg:h-[70vh]" />
+            <img src="https://i.pinimg.com/736x/f3/cf/8e/f3cf8e561977316ce99ac813d737d658.jpg" className="lg:h-[50vh] rounded-xl" />
           </div>
           <div className="text-white md:w-1/2">
             <p className="font-bold my-2 text-2xl">

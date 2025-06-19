@@ -217,7 +217,7 @@ const ListingCard = ({
     <div className="relative mx-2 my-5">
       <img
         src={img ? img : "/Listing/pexels-binyaminmellish-1500459.jpg"}
-        className="rounded-xl md:h-[75vh]"
+        className="rounded-xl  md:h-[75vh]"
       />
       <div className="absolute top-2 flex gap-4 items-center ml-5">
         <p className="uppercase font-medium bg-[#1F4B43] px-3 py-1 rounded-full text-white lg:text-[12px]">
