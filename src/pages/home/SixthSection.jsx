@@ -80,7 +80,7 @@ const SixthSection = () => {
               <p className="font-medium">Designer</p>
             </div>
           </div>
-          <p className="px-3 mt-4">As a first-time homebuyer, I was overwhelmed by the sheer complexity of the real estate market. But then I discovered The Power of Purchase, and it truly lived up to its name. Their comprehensive resources and expert advice empowered me to understand everything from market trends to negotiation tactics. I felt confident and in control throughout the entire process, and ultimately, I secured my dream home at a price I was genuinely thrilled with. If you're looking to make smart, impactful real estate decisions, this is absolutely the platform you need. They give you the real power of purchase</p>
+          <p className="px-3 mt-4">As a first-time homebuyer, I was overwhelmed by the sheer complexity of the real estate market. But then I discovered The Houses of Purchase, and it truly lived up to its name. Their comprehensive resources and expert advice empowered me to understand everything from market trends to negotiation tactics. I felt confident and in control throughout the entire process, and ultimately, I secured my dream home at a price I was genuinely thrilled with. If you're looking to make smart, impactful real estate decisions, this is absolutely the platform you need. They give you the real power of purchase</p>
         </div>
       </div>
 
