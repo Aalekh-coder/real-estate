@@ -8,9 +8,9 @@ const Footer = () => {
 
         {/* Column 1: Company Info */}
         <div className="flex flex-col items-start">
-          <div className="flex items-center text-xl font-bold mb-4">
+          <div className="flex items-center text-xl font-bold mb-4 capitalize">
             <Home size={24} className="mr-2" />
-            Softmore Estates
+            houses For Purchase
           </div>
           <p className="text-sm">
             Your trusted partner in finding your perfect property. Simplifying real estate, one home at a time.

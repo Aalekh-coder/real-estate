@@ -25,7 +25,7 @@ const Navbar = () => {
       </div>
       <div className="items-center hidden lg:flex lg:gap-4">
         <div className="flex items-center gap-1 hover:text-zinc-900 duration-200 hover:scale-110">
-            <Phone /> +91 8860243743
+            <Phone /> +91 9266474766
         </div>
         <div>
             <button className="border px-5 py-2 rounded-full font-bold text-yellow-300 hover:text-white duration-200 hover:scale-110">Add Property</button>
