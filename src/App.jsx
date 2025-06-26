@@ -6,11 +6,13 @@ import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import Navbar from "./components/Layout/Navbar";
 import Footer from "./components/Layout/Footer";
+import CallAction from "./components/CallAction";
 
 const App = () => {
   return (
     <Router>
       <Navbar />
+      <CallAction />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/listings" element={<Listing />} />
