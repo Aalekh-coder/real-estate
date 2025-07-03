@@ -65,7 +65,7 @@ const Footer = () => {
 
       {/* Bottom Bar / Copyright */}
       <div className="border-t border-gray-200 mt-8 pt-4 text-center text-sm text-gray-600">
-        &copy; {new Date().getFullYear()}  <a target="_blank" href="https://www.softmoreit.co.in" className="hover:underline text-yellow-400">Softmore IT. All rights reserved.</a> | <a className="hover:underline">Privacy Policy</a>
+        &copy; {new Date().getFullYear()}  <a target="_blank" href="https://www.softmoreit.co.in" className="hover:underline text-yellow-400">Softmore IT Solutions.</a>   All rights reserved. | <a className="hover:underline">Privacy Policy</a>
       </div>
     </footer>
   );
