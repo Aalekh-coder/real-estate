@@ -66,3 +66,11 @@
     @apply bg-background text-foreground;
   }
 }
+
+html,
+body {
+  scroll-behavior: auto !important; /* disable native smooth */
+  overflow: auto;
+  height: auto;
+  min-height: 100%;
+}

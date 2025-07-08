@@ -4,7 +4,7 @@ import { Bath, Bed, LandPlot } from "lucide-react";
 const Second = () => {
 const realEstateListings = [
   {
-    img: "https://images.nobroker.in/img/5da43c2c0e3bcc90ab696a9c/5da43c2c0e3bcc90ab696a9c_87525_364106_large.jpg",
+    img: "https://www.dwarkahomes.com/property_folder/propety_logo/1049527205DIVYA%20APT.jpeg",
     title: "3BHK Apartment in Dwarka Sector 10",
     description: "Dwarka, New Delhi",
     price: "1.45Cr",
