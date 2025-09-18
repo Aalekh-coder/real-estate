@@ -62,7 +62,7 @@ const Footer = () => {
           <h3 className="font-semibold text-lg mb-4">Contact Us</h3>
           <ul className="text-sm space-y-2">
             <li className="flex items-center">
-              <Phone size={16} className="mr-2" /> +91-9266474766
+              <Phone size={16} className="mr-2" /> +91-9211345978
             </li>
             <li className="flex items-center">
               <Mail size={16} className="mr-2" /> info@houseofpurchase.co.in
